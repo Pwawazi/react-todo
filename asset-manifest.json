@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pwawazi/react-todo.git/static/css/main.ab8666f9.chunk.css",
+    "main.js": "/Pwawazi/react-todo.git/static/js/main.62be261e.chunk.js",
+    "main.js.map": "/Pwawazi/react-todo.git/static/js/main.62be261e.chunk.js.map",
+    "runtime-main.js": "/Pwawazi/react-todo.git/static/js/runtime-main.61887de2.js",
+    "runtime-main.js.map": "/Pwawazi/react-todo.git/static/js/runtime-main.61887de2.js.map",
+    "static/js/2.0bbbe65e.chunk.js": "/Pwawazi/react-todo.git/static/js/2.0bbbe65e.chunk.js",
+    "static/js/2.0bbbe65e.chunk.js.map": "/Pwawazi/react-todo.git/static/js/2.0bbbe65e.chunk.js.map",
+    "index.html": "/Pwawazi/react-todo.git/index.html",
+    "static/css/main.ab8666f9.chunk.css.map": "/Pwawazi/react-todo.git/static/css/main.ab8666f9.chunk.css.map",
+    "static/js/2.0bbbe65e.chunk.js.LICENSE.txt": "/Pwawazi/react-todo.git/static/js/2.0bbbe65e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61887de2.js",
+    "static/js/2.0bbbe65e.chunk.js",
+    "static/css/main.ab8666f9.chunk.css",
+    "static/js/main.62be261e.chunk.js"
+  ]
+}
